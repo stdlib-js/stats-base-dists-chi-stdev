@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-03)
+## Unreleased (2025-05-04)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`828cfd5`](https://github.com/stdlib-js/stdlib/commit/828cfd594d771e9d1ba2af3e80af0021f0b7fd8f) - **docs:** replace manual `for` loop in examples [(#6922)](https://github.com/stdlib-js/stdlib/pull/6922) _(by Harsh)_
 -   [`053722e`](https://github.com/stdlib-js/stdlib/commit/053722e28d6b086a08fc017948ae364976d9601c) - **feat(stats):** add C implementation for `stats/base/dists/chi/stdev` [(#4590)](https://github.com/stdlib-js/stdlib/pull/4590) _(by Karan Anand, Philipp Burckhardt, stdlib-bot)_
 -   [`b3540a8`](https://github.com/stdlib-js/stdlib/commit/b3540a8ffa4c9cd3122e660a68dcbe286330b5e6) - **bench:** refactor random number generation in `stats/base/dists/chi` [(#4853)](https://github.com/stdlib-js/stdlib/pull/4853) _(by Karan Anand)_
 
@@ -47,8 +48,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Harsh
 -   Karan Anand
 -   Philipp Burckhardt
 
