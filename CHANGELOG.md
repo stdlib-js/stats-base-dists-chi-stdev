@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-30)
+## Unreleased (2026-04-11)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1a0c328`](https://github.com/stdlib-js/stdlib/commit/1a0c328357f92fbf8a7a510c42661c560a480c79) - **refactor:** reuse variance in `stats/base/dists/chi/stdev` [(#11365)](https://github.com/stdlib-js/stdlib/pull/11365) _(by Om-A-osc, Athan Reines)_
 -   [`81fd782`](https://github.com/stdlib-js/stdlib/commit/81fd7822d544bff51fccb618844e07f7edf31e8b) - **bench:** use string interpolation in `stats/base/dists/chi` [(#10171)](https://github.com/stdlib-js/stdlib/pull/10171) _(by Om-A-osc)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Om-A-osc
 
 </section>
